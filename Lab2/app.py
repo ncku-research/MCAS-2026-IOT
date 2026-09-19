@@ -1,4 +1,4 @@
-# Lab2
+# Lab2 test
 from flask import Flask, render_template, request, redirect, url_for
 
 app = Flask(__name__)
